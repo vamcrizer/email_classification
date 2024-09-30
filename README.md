@@ -31,8 +31,10 @@ Hiệu suất mô hình sẽ được đánh giá bằng các chỉ số sau:
 - **ROC-AUC**: Sử dụng diện tích dưới đường cong để đánh giá mô hình
 - **K-Folds-CV**: Sử dụng K-Folds Crossvalidation để kiểm tra mô hình có overfit hay không
 
-## Lưu ý
-Đây chỉ là file notebook để tham khảo
-
+### 5. Nhưng thư viện cần thiết
 ```bash
 pip install numpy pandas scikit-learn nltk
+```
+
+## Lưu ý
+Đây chỉ là file notebook để tham khảo
